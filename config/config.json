@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x138Faa33B57AB385F5CbEb1e0DEc82df4803f69C",
+  "SCAN_LINK": "https://polygonscan.com/token/0x138Faa33B57AB385F5CbEb1e0DEc82df4803f69C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "KONGz Polygon",
+  "SYMBOL": "KONG",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kongz-polygon",
+  "SHOW_BACKGROUND": true
+}
